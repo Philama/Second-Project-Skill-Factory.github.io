@@ -1,14 +1,10 @@
 # Second Challenge - Avalith Skill Factory React
 
 <p align="center">
-  <img src="https://github.com/fmiguezo/SkillFactory-PrimerProyecto/blob/master/img/gifreadme.gif">
+  <img src="https://philama.github.io/First-Project-Skill-Factory.github.io//blob/master/img/gifreadme.gif">
 </p>
 
-### Main goal: Migrate the site built in checkpoint #1 in HTML, CSS and JS to ReactJS.
-
-Migrated site: https://github.com/fmiguezo/SkillFactory-PrimerProyecto
-
-:white_check_mark: Description: All UI elements must be componetizable. This implies that we will only have one HTML and all the pages of our site must be in functional React components.\
+#:white_check_mark: Description: All UI elements must be componetizable. This implies that we will only have one HTML and all the pages of our site must be in functional React components.\
 :white_check_mark:The styles of the site can vary from one release to another, you can implement some CSS library/framework in case they haven't used and they don't necessarily have to look the same from the UI, but they have to meet the same requirements.\
 :white_check_mark: The product must be routed with React Router Dom v6. In addition, it must not generate reloading of the site at any time, so it must have the behavior of a SPA (Single Page Application).\
 :white_check_mark: The same requests must be made to the APIs and it must be controlled through the hooks that we have worked on.
@@ -118,7 +114,7 @@ In the React app's GitHub repo, click on the button, Code. A drop down will appe
 
 Now, open the git bash window for the new folder you just created by right clicking on the folder and clicking Git bash here.
 On your git bash window, type `git clone`, paste the code URL of the GitHub repo, then run the command by pressing enter.
-`git clone https://github.com/fmiguezo/SkillFactory-SegundoProyecto.git`
+`git clone https://github.com/Philama/Second-Project-Skill-Factory.github.io.git`
 At the end of the process, if you did everything correct, you won't encounter any errors meaning the cloning process was completed successfully.
 
 ## 2. Configuring the Cloned App
